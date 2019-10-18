@@ -1,0 +1,4 @@
+name      english    maths  Total
+rajesh    100        50      150
+murari     50        100      150
+josh      100        100      200

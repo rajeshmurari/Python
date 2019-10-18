@@ -1,0 +1,4 @@
+name      english    maths
+rajesh    100        50
+murari     50        100
+josh      100        100
